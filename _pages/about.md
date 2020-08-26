@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D student in [Insect Ecology Laboratory](http://www.insecteco.kais.kyoto-u.ac.jp/) at Kyoto University.
-I am interested in social decision-making in animals.
+I am interested in social behavior and decision-making in animals.
 
 
 ### Personal information
