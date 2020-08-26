@@ -1,10 +1,8 @@
 ---
-permalink: /
+permalink: /others/
 title: "ohters"
 excerpt: "others"
 author_profile: true
-redirect_from: 
-  - /others/
 ---
 
 ## keyboard

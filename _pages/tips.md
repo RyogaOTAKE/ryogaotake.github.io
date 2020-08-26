@@ -1,10 +1,8 @@
 ---
-permalink: /
+permalink: /tips/
 title: "tips"
 excerpt: "tips"
 author_profile: true
-redirect_from: 
-  - /tips/
 ---
 
 
