@@ -5,7 +5,6 @@ excerpt: "tips"
 author_profile: true
 redirect_from: 
   - /tips/
-  - /tips.html
 ---
 
 
