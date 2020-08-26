@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Ryoga OTAKE"
-excerpt: "About me"
+title: "Welcome!"
+excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 I am a Ph.D student in [Insect Ecology Laboratory](http://www.insecteco.kais.kyoto-u.ac.jp/) at Kyoto University.
 
 #### Personal information
@@ -14,7 +15,6 @@ I am a Ph.D student in [Insect Ecology Laboratory](http://www.insecteco.kais.kyo
 - **Affiliation:**
 2019.04  Ph.D course, Laboratory of Insect Ecology, Graduate School of Agriculture, Kyoto University, Japan
 - **e-mail:** otake.ryoga(at)gmail.com
-- [**CV**](content/CV.pdf)
 
 #### Links
 - [ResearchGate](https://www.researchgate.net/profile/Ryoga_Otake)
