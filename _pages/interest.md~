@@ -13,4 +13,5 @@ Beetles use social information flexibly in their egg-laying decision-making.
 
 ## Termite maze solving
 Termites have a unique way of solving a complex maze.
+
 <img src="../images/termite.jpg" width = "300">
