@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 ## keyboard
+左右分割で，縦のラインが揃っているキーボードが好みです．
 
-使用キーボード
-- **Corne chocolate**: 42キー左右分割
-- **Ergodox EZ**: 市販の左右分割
-- **HHKB hybrid type-S**: ハッピーハッキングキーボード
+- **Corne chocolate**: 42キー左右分割 @ラボ
+- **Ergodox EZ**: 市販の左右分割 @自宅
+- **HHKB hybrid type-S**: ハッピーハッキングキーボード @mobile
 
-**corne keymap**
+**corne keymap** [Download qmk file](http://ryogaotake.github.io/files/john)
 ```
 # 基本レイヤー
       ------------------------------------------------------------------
