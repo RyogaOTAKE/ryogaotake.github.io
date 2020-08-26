@@ -12,7 +12,7 @@ author_profile: true
 - **Ergodox EZ**: 市販の左右分割 @自宅
 - **HHKB hybrid type-S**: ハッピーハッキングキーボード @mobile
 
-**corne keymap** [Download qmk file](http://ryogaotake.github.io/files/john)
+**corne keymap** [Download my keymap](https://github.com/RyogaOTAKE/john)
 ```
 # 基本レイヤー
       ------------------------------------------------------------------
@@ -71,6 +71,7 @@ author_profile: true
 
 
 ## VIM
+[refference](https://github.com/ishibaki/vim_setting_files)
 - neovim for writing paper
 - macvim for others
 
@@ -82,4 +83,8 @@ author_profile: true
   - memory:
   - gpu:
 
+## application
+### mac
+- [Alfred](https://www.alfredapp.com/): ランチャーアプリ.他のアプリとの連携も良い．アプリ立ち上げ，ファイル検索，特定ページでの検索(google scholarなど)が可能
+- [Karabiner](https://karabiner-elements.pqrs.org/): キーマップの変更など
 
