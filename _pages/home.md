@@ -1,11 +1,11 @@
 ---
 permalink: /
 title: "Ryoga OTAKE"
-excerpt: "About me"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
 I am a Ph.D student in [Insect Ecology Laboratory](http://www.insecteco.kais.kyoto-u.ac.jp/) at Kyoto University.
