@@ -5,9 +5,7 @@ excerpt: "tips"
 author_profile: true
 ---
 
-
-
-研究関連のちょっと役に立つものを書いていく．
+研究関連のちょっと役に立つもの
 
 ## ffmpeg
 動画の処理に使用
@@ -28,9 +26,12 @@ ffmpeg -ss 60 -i input.avi -qscale 0 -t 30 output.avi
 ```
 
 ## R
-データ解析はほぼ全てRを使用
+データ解析に使用
 
 便利なパッケージ
 - tidyverse: データ処理
 - zoo: 時系列データのNA処理
 - lme4: GLMM
+- ggthemes: ggplotのテーマ. theme_mapをよく使う.
+
+
