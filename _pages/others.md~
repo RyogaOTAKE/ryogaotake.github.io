@@ -11,10 +11,12 @@ redirect_from:
 左右分割で，縦のラインが揃っているキーボードが好みです．
 
 - **Corne chocolate**: 42キー左右分割 @ラボ
+  - [Download keymap](https://github.com/RyogaOTAKE/john)
 - **Ergodox EZ**: 市販の左右分割 @自宅
+  - [Download keymap](https://ryogaotake.github.io/files/ergodox_ez_john_layout.hex)
 - **HHKB hybrid type-S**: ハッピーハッキングキーボード @mobile
 
-**corne keymap** [Download my keymap](https://github.com/RyogaOTAKE/john)
+**corne keymap**
 ```
 # 基本レイヤー
       ------------------------------------------------------------------
@@ -80,12 +82,13 @@ redirect_from:
 
 ## PC
 - Macbook pro 15 2016
-- Ubuntu machine
+- Desktop
   - cpu:
   - memory:
   - gpu:
+  - OS: Ubuntu
 
-## application
+## apps
 ### mac
 - [Alfred](https://www.alfredapp.com/): ランチャーアプリ.他のアプリとの連携も良い．アプリ立ち上げ，ファイル検索，特定ページでの検索(google scholarなど)が可能
 - [Karabiner](https://karabiner-elements.pqrs.org/): キーマップの変更など
