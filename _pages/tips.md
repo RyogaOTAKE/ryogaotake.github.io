@@ -23,6 +23,12 @@ ffmpeg -ss 60 -i input.avi -qscale 0 -t 30 output.avi
 # RGB -> grayscale (BT.601)
 -vf colorchannelmixer=.299:.587:.114:0:.299:.587:.114:0:.299:.587:.114:0
 
+# change resolution, -1 -> auto setting
+ffmpeg -i input.mp4 -vf scale=1280:-1 out.mp4
+
+# change fps: -r 10 -> 10 fps
+ffmpeg -i exapmle.avi -r 10 exapmle.mp4
+
 ```
 
 ## R

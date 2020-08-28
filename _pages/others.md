@@ -1,6 +1,6 @@
 ---
 permalink: /others/
-title: "ohters"
+title: "others"
 excerpt: "others"
 author_profile: true
 redirect_from:
