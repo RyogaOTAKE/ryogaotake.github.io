@@ -7,6 +7,16 @@ author_profile: true
 
 研究関連のちょっと役に立つもの
 
+## 正規表現
+
+```
+# a の後にa~zの文字がくるもの
+a[a-z]
+
+# aの後にa~z以外がくるもの
+a[^a-z]
+```
+
 ## ffmpeg
 動画の処理に使用
 
@@ -22,6 +32,12 @@ ffmpeg -ss 60 -i input.avi -qscale 0 -t 30 output.avi
 
 # RGB -> grayscale (BT.601)
 -vf colorchannelmixer=.299:.587:.114:0:.299:.587:.114:0:.299:.587:.114:0
+
+# change resolution, -1 -> auto setting
+ffmpeg -i input.mp4 -vf scale=1280:-1 out.mp4
+
+# change fps: -r 10 -> 10 fps
+ffmpeg -i exapmle.avi -r 10 exapmle.mp4
 
 ```
 
