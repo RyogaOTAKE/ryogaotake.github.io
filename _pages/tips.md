@@ -50,6 +50,9 @@ ffmpeg -i exapmle.avi -r 10 exapmle.mp4
 - lme4: GLMM
 - ggthemes: ggplotのテーマ. theme_mapをよく使う.
 
+## website
+- [論文ネットワーク](https://www.connectedpapers.com/)
+  分野の重要な文献を見つけやすい．使うと楽しい．
 
 ## Camera
 For high-resolution movie
