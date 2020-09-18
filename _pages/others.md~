@@ -94,6 +94,6 @@ redirect_from:
 - [tickeys](https://github.com/yingDev/Tickeys): タイピング音出してくれる．qaz123でpreference
 - [vimanywhere](https://github.com/cknadler/vim-anywhere): mvimをショートカットで呼び出して保存すると，クリップボードに記録される．どこでもvimで文章書ける．macvim-kaoriyaの場合はシンボリックリンクの作成が必要．
 
-```{terminal}
+```
 ln -s /Applications/MacVim.app/Contents/bin/mvim /usr/local/bin/mvim
 ```
