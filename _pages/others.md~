@@ -73,7 +73,6 @@ redirect_from:
        | | | | | |
 ```
 
-
 ## VIM
 [refference](https://github.com/ishibaki/vim_setting_files)
 - neovim for writing paper
@@ -92,4 +91,9 @@ redirect_from:
 ### mac
 - [Alfred](https://www.alfredapp.com/): ランチャーアプリ.他のアプリとの連携も良い．アプリ立ち上げ，ファイル検索，特定ページでの検索(google scholarなど)が可能
 - [Karabiner](https://karabiner-elements.pqrs.org/): キーマップの変更など
+- [tickeys](https://github.com/yingDev/Tickeys): タイピング音出してくれる．qaz123でpreference
+- [vimanywhere](https://github.com/cknadler/vim-anywhere): mvimをショートカットで呼び出して保存すると，クリップボードに記録される．どこでもvimで文章書ける．macvim-kaoriyaの場合はシンボリックリンクの作成が必要．
 
+```{terminal}
+ln -s /Applications/MacVim.app/Contents/bin/mvim /usr/local/bin/mvim
+```

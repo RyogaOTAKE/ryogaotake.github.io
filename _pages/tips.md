@@ -51,9 +51,17 @@ ffmpeg -i exapmle.avi -r 10 exapmle.mp4
 - ggthemes: ggplotのテーマ. theme_mapをよく使う.
 
 ## website
-- [論文ネットワーク](https://www.connectedpapers.com/)
+- [Connected Papers](https://www.connectedpapers.com/)
   分野の重要な文献を見つけやすい．使うと楽しい．
 
 ## Camera
 For high-resolution movie
 - [DFK33UX183](https://www.argocorp.com/cam/usb3/tis/DxK33UX183.html)
+
+## データディスク
+全てex-FATにする
+- [seagate HDD 8TB](https://www.amazon.co.jp/dp/B07911QK3X/ref=cm_sw_em_r_mt_dp_y1hwFbX161BVS)
+  [この辺](https://www.century.co.jp/products/pc/razoku/)のものと一緒に使用
+
+- [sandisk SSD 2TB](https://www.amazon.co.jp/dp/B07CYC2VQ5/ref=cm_sw_em_r_mt_dp_G0hwFbP7FJ6AG)
+
