@@ -53,7 +53,8 @@ ffmpeg -i exapmle.avi -r 10 exapmle.mp4
 ## website
 - [Connected Papers](https://www.connectedpapers.com/)
   分野の重要な文献を見つけやすい．使うと楽しい．
-
+- [Zotero styles](https://www.zotero.org/styles)
+  ジャーナルごとのcslファイルをダウンロードできる
 ## Camera
 For high-resolution movie
 - [DFK33UX183](https://www.argocorp.com/cam/usb3/tis/DxK33UX183.html)

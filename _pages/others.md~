@@ -97,3 +97,13 @@ redirect_from:
 ```
 ln -s /Applications/MacVim.app/Contents/bin/mvim /usr/local/bin/mvim
 ```
+
+## Exif情報編集
+- exiftoolが便利
+
+```
+# 画像ファイルの名前を撮影日時に変更
+cd #目的フォルダ
+exiftool '-filename<IMG_${DateTimeOriginal}.%e' -d %Y%m%d-%H%M%S *
+```
+
