@@ -41,6 +41,12 @@ ffmpeg -i exapmle.avi -r 10 exapmle.mp4
 
 ```
 
+## shell
+```
+# path以下の特定の拡張子のファイルをコピー
+find /path/ -type f -name "*.txt" -exec cp {} /path/ \;
+```
+
 ## R
 データ解析に使用
 
@@ -49,6 +55,13 @@ ffmpeg -i exapmle.avi -r 10 exapmle.mp4
 - zoo: 時系列データのNA処理
 - lme4: GLMM
 - ggthemes: ggplotのテーマ. theme_mapをよく使う.
+
+'''
+#日本語フォントのpdf保存できない問題
+#svgで保存してイラレで編集する
+library(svglite)
+ggsave("file_name.svg", graph, width = 8, height = 8)
+'''
 
 ## website
 - [Connected Papers](https://www.connectedpapers.com/)
@@ -65,4 +78,22 @@ For high-resolution movie
   [この辺](https://www.century.co.jp/products/pc/razoku/)のものと一緒に使用
 
 - [sandisk SSD 2TB](https://www.amazon.co.jp/dp/B07CYC2VQ5/ref=cm_sw_em_r_mt_dp_G0hwFbP7FJ6AG)
+
+## 日本語の書き方
+本多勝一「日本語の作文技術」より
+
+>- 修飾の順序
+>  - 節を先にして，句を後にする．
+>  - 長いものを先にして，短いものを後にする．
+>  - 大状況・重要内容ほど先にする．
+>  - 親和度（なじみ）の強弱により配置転換する．
+>
+>- 句読点の打ち方
+>  - 必要最小限のテンだけを打つ．
+>  - 長い修飾語が二つ以上あるとき，その境界にテンを打つ．
+>  - 語順が，修飾語の語順の原則に照らして逆順の場合にテンを打つ．
+>
+>- その他
+>  - 紋切型の文章はダサい．
+>  - 体言止めの文章は下品だ．
 
