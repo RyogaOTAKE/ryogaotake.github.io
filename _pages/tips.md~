@@ -56,8 +56,9 @@ find /path/ -type f -name "*.txt" -exec cp {} /path/ \;
 - lme4: GLMM
 - ggthemes: ggplotのテーマ. theme_mapをよく使う.
 
+日本語フォントのpdf保存できない問題
+
 '''
-#日本語フォントのpdf保存できない問題
 #svgで保存してイラレで編集する
 library(svglite)
 ggsave("file_name.svg", graph, width = 8, height = 8)
